@@ -1,2 +1,6 @@
 # NetflixClone
- Netflix Clone
+
+Netflix Clone
+
+How to run this app
+npm start
